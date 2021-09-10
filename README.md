@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-my name is Jeonhyeon
+  [naver](https://www.naver.com)
