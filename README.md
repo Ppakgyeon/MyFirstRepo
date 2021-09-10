@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-  [naver](https://www.naver.com)
+  [png](./png/REDEME.md)
