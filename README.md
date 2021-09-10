@@ -1,3 +1,3 @@
 # 하드웨어
 
-  [raseberrypi](./rpt.md)
+  [raseberrypi](./rp.md)
